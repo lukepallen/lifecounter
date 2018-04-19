@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="p1_name">Player 1</string>
+    <string name="p2_name">Player 2</string>
+    <string name="p3_name">Player 3</string>
+    <string name="p4_name">Player 4</string>
+    <integer name="start_hp">20</integer>
+    <string name="p_btn_plus5">+5</string>
+    <string name="p_btn_minus5">-5</string>
+    <string name="p_btn_plus1">+1</string>
+    <string name="p_btn_minus1">-1</string>
+    <string name="player_loss"> </string>
+</resources>
